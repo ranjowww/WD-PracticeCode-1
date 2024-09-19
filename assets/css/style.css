@@ -1,0 +1,15 @@
+.Name{
+    font-family: "Merriweather", serif;
+}
+
+.left{
+    width: 30vw;
+}
+
+.right{
+    width: 70vw;
+}
+
+.main{
+    display: flex;
+}
